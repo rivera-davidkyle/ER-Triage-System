@@ -1,4 +1,3 @@
-// CMSC 341 - Fall 2020 - Project 3
 // PQueue: an ER triage queue using a skew heap and function pointers
 
 #ifndef _PQUEUE_H
