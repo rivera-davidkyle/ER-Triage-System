@@ -1,11 +1,4 @@
 /*****************************************
- ** File:    pqueue.cpp
- ** Project: CMSC 341 Project 3, Fall 2020
- ** Author:  Kyle Rivera
- ** Date:    11/09/2020
- ** Section: 06
- ** E-mail:  drivera1@umbc.edu
- **
  ** This file contains the pqueue class for project 3.
  ** This program contains the functions that creates
  ** a skew heap, and while maintaining the priority
