@@ -1,11 +1,4 @@
 /*****************************************
- ** File:    mytest.cpp
- ** Project: CMSC 341 Project 3, Fall 2020
- ** Author:  Kyle Rivera
- ** Date:    11/09/2020
- ** Section: 06
- ** E-mail:  drivera1@umbc.edu
- **
  ** This file contains the test drive program for project 3.
  ** This program tests PQueue class and its min-skew heap structure.
  ** It tests every public function that PQueue has such as:
